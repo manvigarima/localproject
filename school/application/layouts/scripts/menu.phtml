@@ -1,0 +1,15 @@
+<nav>
+          <ul id="menu">
+            <li><a href="index.html">About</a></li>
+            <li><a href="courses.html">Courses</a></li>
+            <li><a href="programs.html">Programs</a></li>
+            <li><a href="teachers.html">Teachers</a></li>
+            <li class="end"><a href="contacts.html">Contacts</a></li>
+            <li><a href="<?php echo $this->url(
+            array('controller'=>'register','action'=>'user'
+            ), 'default', true) ?>">listing</a></li>
+             <li><a href="<?php echo $this->url(
+            array('controller'=>'register'
+            ), 'default', true) ?>">Signup</a></li>
+          </ul>
+        </nav>

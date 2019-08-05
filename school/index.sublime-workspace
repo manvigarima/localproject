@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cour",
+				"cursor"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"mai",
+				"main-section"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"acc",
+				"accesskey\tAttr"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"lign",
+				"line-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"HTTP",
+				"http_date"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/school/application/views/scripts/index/index.phtml",
+		"/D/ZFQuickstart/application/views/scripts/register/index.phtml",
+		"/C/wamp64/www/school/library/Zend/Controller/Action.php",
+		"/C/wamp64/www/oops/abstract.php",
+		"/C/Users/Java Development/Desktop/MMM/style.css",
+		"/C/Users/Java Development/Desktop/MMM/INDEX.HTML",
+		"/C/Users/Java Development/Desktop/boots/index.html",
+		"/E/hemant/javascriptstring/do-while.html",
+		"/C/Users/Java Development/Desktop/index1.php",
+		"/C/wamp64/www/nkn/index.html",
+		"/C/wamp64/www/loan/index.php",
+		"/C/wamp64/www/loan/login.php",
+		"/C/wamp64/www/loan/inc/header.php",
+		"/C/wamp64/www/loan/config/db.php",
+		"/C/wamp64/www/itspark/index.php",
+		"/C/wamp64/www/php/captcha.php",
+		"/C/Users/Java Development/Desktop/all project/Ecommerce/index.php",
+		"/C/wamp64/www/php/test2.php",
+		"/C/wamp64/www/php/list.php",
+		"/C/wamp64/www/php/session.php",
+		"/C/wamp64/www/php/index.php",
+		"/C/wamp64/www/php/style.css",
+		"/C/wamp64/www/online/footer.php",
+		"/C/wamp64/www/online/css/footer.css",
+		"/C/wamp64/www/online/css/style.css",
+		"/C/wamp64/www/Ecommerce/includes/db.php",
+		"/C/wamp64/www/Ecommerce/registration_action.php",
+		"/C/wamp64/www/Ecommerce/Registration.php",
+		"/C/wamp64/www/Ecommerce/index.php",
+		"/C/wamp64/www/Ecommerce/css/style.css",
+		"/C/wamp64/www/Ecommerce/for.php",
+		"/C/wamp64/www/Ecommerce/css/product.css",
+		"/C/wamp64/www/Ecommerce/products.php",
+		"/C/wamp64/www/Ecommerce/input.php",
+		"/C/wamp64/www/mynew/css/index.css",
+		"/C/wamp64/www/emart/index.php",
+		"/C/wamp64/www/emart/registration.php",
+		"/C/wamp64/www/emart/css/style.css",
+		"/C/wamp64/www/mediaquery/index.php",
+		"/C/wamp64/www/mediaquery/css/mystyle.css",
+		"/C/wamp64/www/emart/phpclass.php",
+		"/C/wamp64/www/design.html",
+		"/C/wamp64/www/cookie/logout.php",
+		"/C/wamp64/www/cookie/login.php",
+		"/C/wamp64/www/cookie/display.php",
+		"/C/wamp64/www/cookie/index.php",
+		"/C/wamp64/www/cookie/db.php",
+		"/C/wamp64/www/emart/css/admitcard.css",
+		"/C/wamp64/www/emart/formaction.php",
+		"/C/wamp64/www/email_sendind/index.php",
+		"/C/wamp64/www/email_sendind/social.php",
+		"/C/wamp64/www/emart/abc.php",
+		"/C/wamp64/www/ci_ecommerce/application/controllers/Home.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/about_us.php",
+		"/C/wamp64/www/ci_ecommerce/css/stype.css",
+		"/C/wamp64/www/ci_ecommerce/application/views/help.php",
+		"/C/wamp64/www/ci_ecommerce/application/config/config.php",
+		"/C/wamp64/www/ci_ecommerce/style.css",
+		"/C/wamp64/www/tr/index.php",
+		"/C/wamp64/www/tr/contact.php",
+		"/C/wamp64/www/tr/header.php",
+		"/C/wamp64/www/smssending/index.php",
+		"/C/wamp64/www/smssending/css/main.css",
+		"/C/wamp64/www/ci_ecommerce/application/controllers/About_us.php",
+		"/C/wamp64/www/ci_ecommerce/application/config/autoload.php",
+		"/C/wamp64/www/emart1/application/controllers/insertdata.php",
+		"/C/wamp64/www/emart1/application/models/Book.php",
+		"/C/wamp64/www/emart1/application/views/data_insert.php",
+		"/C/wamp64/www/emart1/application/config/autoload.php",
+		"/C/wamp64/www/emart1/application/config/database.php",
+		"/C/wamp64/www/dabase/index.php",
+		"/C/wamp64/www/dabase/action.php",
+		"/C/wamp64/www/dabase/db.php",
+		"/C/wamp64/www/paytm/css/mystyle.css",
+		"/C/wamp64/www/paytm/index.php",
+		"/C/wamp64/www/emart/action.php",
+		"/C/wamp64/www/aicaasnews/css/mystyle.css",
+		"/C/wamp64/www/aicaasnews/index.php",
+		"/C/wamp64/www/emart1/application/views/navbar/navbar.php",
+		"/C/wamp64/www/emart1/application/views/css/css.php",
+		"/C/wamp64/www/emart1/application/controllers/home.php",
+		"/C/wamp64/www/emart1/application/views/footer/footer.php",
+		"/C/wamp64/www/emart1/style/css/mystyle.css",
+		"/C/wamp64/www/emart1/application/views/mainsection/main.php",
+		"/C/wamp64/www/emart1/application/views/help.php",
+		"/C/wamp64/www/emart1/application/views/header/header.php",
+		"/C/wamp64/www/dabase/phpclass.php",
+		"/C/wamp64/www/emart1/application/controllers/Welcome.php",
+		"/C/wamp64/www/emart1/application/views/welcome_message.php",
+		"/C/wamp64/www/emart1/application/config/routes.php",
+		"/C/wamp64/www/emart1/.htaccess",
+		"/C/wamp64/www/emart1/application/config/config.php",
+		"/C/wamp64/www/dabase/abc.php",
+		"/C/wamp64/www/dabase/acb.php",
+		"/C/wamp64/www/ci_ecommerce/application/controllers/Welcome.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/welcome_message.php",
+		"/C/wamp64/www/ci_ecommerce/application/config/routes.php",
+		"/C/wamp64/www/ci_ecommerce/.htaccess",
+		"/C/wamp64/www/ci_ecommerce/system/database/DB_driver.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/index.html",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/cli/error_exception.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/cli/error_php.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/cli/index.html",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/error_404.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/error_db.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/error_exception.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/error_general.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/error_php.php",
+		"/C/wamp64/www/ci_ecommerce/application/views/errors/html/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/.htaccess",
+		"/C/wamp64/www/ci_ecommerce/system/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/core/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/core/Security.php",
+		"/C/wamp64/www/ci_ecommerce/system/core/compat/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/cubrid/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/ibase/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/mssql/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/mysql/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/mysqli/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/oci8/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/odbc/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/pdo/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/pdo/subdrivers/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/postgre/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/sqlite/index.html",
+		"/C/wamp64/www/ci_ecommerce/system/database/drivers/sqlite3/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

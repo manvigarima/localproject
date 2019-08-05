@@ -1,0 +1,115 @@
+#startbooking-flow {
+	max-width: 600px;
+	margin: 5px auto;
+}
+#startbooking-flow .DayPicker-Caption{ height: 3.5rem; }
+#startbooking-flow .DayPicker, 
+#startbooking-flow .DayPicker-Month{width: 100%;margin:0;}
+#startbooking-flow .sb-secure-profile {
+	border: 1px solid black;
+	border-radius: 0px;
+	margin: 10px 0;
+	padding: 40px 10px;
+	text-align: center;
+}
+#startbooking-flow .sb-field-group {
+	padding-bottom: 10px;
+}
+#startbooking-flow .sb-field-group label{
+	width: 35%;
+	display: inline-block;
+}
+#startbooking-flow .sb-field-group input{
+	width: 65%;
+	display: inline-block;
+}
+#startbooking-flow .sb-loader {
+	padding: 60px 0px 10px 0px;
+}
+#startbooking-flow .sb-loader,
+#startbooking-flow .sb-loader svg,
+#startbooking-flow .sb-loader p {
+	text-align: center;
+}
+
+#startbooking-flow .sb-button-wrap .sb-secondary-action {
+	width: 50%;
+	display: inline-block;
+	text-align: left;
+}
+
+#startbooking-flow .sb-button-wrap .sb-secondary-action a{
+	display: inline-block;
+	margin: 25px 5px;
+}
+
+#startbooking-flow .sb-button-wrap .sb-primary-action {
+	width: 50%;
+	display: inline-block;
+	text-align: right;
+}
+
+#startbooking-flow .sb-service-type-box {
+	cursor: pointer;
+	margin: 10px 5px;
+	position: relative;
+	border: 1px solid #999;
+	border-radius: 0px;
+}
+#startbooking-flow .sb-service-type-box h3,
+#startbooking-flow .sb-service-box h3{
+	text-align: center;
+	margin: 20px;
+}
+#startbooking-flow .sb-service-type-box small{
+	display: block;
+	text-align: center;
+}
+#startbooking-flow .sb-service-box{
+	cursor: pointer;
+	margin: 10px 5px;
+	position: relative;
+	border: 1px solid #aaa;
+	border-radius: 0px;
+}
+
+#startbooking-flow .sb-service-box .sb-short-desc{
+	text-align: center;
+	margin: 5px 5px 50px 5px;
+}
+
+#startbooking-flow .sb-service-box .sb-duration{
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+}
+#startbooking-flow .sb-service-box .sb-price{
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+#startbooking-flow .sb-time-box{
+	border: 1px solid #aaa;
+	border-radius: 0px;
+	display: inline-block;
+	margin: 3px 1%;
+	padding: 3px;
+	cursor: pointer;
+	text-align:center;
+	width: 23%;
+}
+
+#startbooking-flow table.sb-session-details{
+	width: 100%;
+	border: 1px solid #aaa;
+}
+#startbooking-flow table.sb-session-details td {
+	padding: 5px;
+	vertical-align: top;
+}
+#startbooking-flow table.sb-session-details tr {
+	border-bottom: 1px solid #aaa;
+}
+#startbooking-flow table.sb-session-details tr:last-of-type{
+	border-bottom: 0px;
+} 

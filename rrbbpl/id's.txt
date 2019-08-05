@@ -1,0 +1,10 @@
+DB- rrbbpl
+User: admin
+Pass: avais
+
+
+live 
+http://www.avatechbhadohi.com/rrbbpl/
+User: avatechb_rrbbpl
+Database: avatechb_rrbbpl
+Password: 1q2w3e4r5t6y

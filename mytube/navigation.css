@@ -1,0 +1,43 @@
+
+	nav{margin-bottom: 0px !important; border-radius: 0px !important;}
+	#myNavvar{margin-top:0px; background:#333333; font-size:large;}
+	.second_header li a {margin-left:30px; margin-right:2px; }
+	@media only screen and (max-width: 1500px)
+	{
+		.second_header li {margin-left: 60px; margin-right: 18px; padding: 20px; color:green; text-align: center;}
+
+		.hed{color: white; background-color: green; }
+	}
+	@media only screen and (max-width: 1300px)
+	{
+		.second_header li {margin-left: 45px;  margin-right: 18px; padding: 20px; color:green;}
+		.second_header li a{font-size: 15px; font-weight: bold;}
+		.hed{color: white; background-color: pink; }
+	}
+		@media only screen and (max-width: 1200px)
+	{
+		.second_header li {margin-left: 25px; margin-right: 10px; padding: 18px; color:green;}
+		.hed{color: green; background-color: yellow}
+	}
+	@media only screen and (max-width: 1050px)
+	{
+		.second_header li {margin-left: 1px; margin-right: 0px; padding: 15px !important; color:green;}
+		.des_in{font-size: 25px; text-align: center;}
+		.hed{color: green; background-color: red}
+	}
+	@media only screen and (max-width: 1000px)
+	{
+		.second_header li {margin-left: 1px; margin-right: 0px; padding: 15px !important; color:green;}
+		.second_header li a{font-size: 20px; font-weight: bold;}
+		.des_in{font-size: 25px; text-align: center;}
+		.hed{color: green; background-color: purple}
+		
+	}
+	@media only screen and (max-width: 970px)
+	{
+		.second_header li {margin-left: 2px; margin-right:0px; padding: 15px !important; color:green;}
+		.hed{color: green; background-color: brown}
+		.second_header li a{font-size: 12px;}
+	}
+	.slide{position: relative; z-index: 20;}
+	.des{ margin-top: 300px;}

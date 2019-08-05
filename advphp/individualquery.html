@@ -1,0 +1,88 @@
+
+<!DOCTYPE>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Untitled Document</title>
+    <style>
+        html, body
+        {
+            margin: 0px;
+            padding: 0px;
+            color: #000;
+            font-size: 16px;
+        }
+
+        .change
+        {
+            background-color: transparent;
+        }
+
+        .red
+        {
+            background-color: #093;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="question" id="division">
+        <h1>this is question how are you </h1>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+    </div>
+    <div class="question" id="div1">
+        <h1>this is question how are you </h1>
+
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+    </div>
+    <div class="question" id="div2">
+        <h1>this is question how are you </h1>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+    </div>
+    <div class="question" id="div3">
+        <h1>this is question how are you </h1>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+        <p class="change">Change my Background Color, Font-size OnClick</p>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+       
+        $("#division p").click(function () {
+            var selected = $(this).hasClass("red");
+            $("#division p").removeClass("red");
+            if (!selected)
+                $(this).addClass("red");
+        });
+        $("#div1 p").click(function () {
+            var selected = $(this).hasClass("red");
+            $("#div1 p").removeClass("red");
+            if (!selected)
+                $(this).addClass("red");
+        });
+        $("#div2 p").click(function () {
+            var selected = $(this).hasClass("red");
+            $("#div2 p").removeClass("red");
+            if (!selected)
+                $(this).addClass("red");
+        });
+        $("#div3 p").click(function () {
+            var selected = $(this).hasClass("red");
+            $("#div3 p").removeClass("red");
+            if (!selected)
+                $(this).addClass("red");
+        });
+        //});
+    </script>
+
+</body>
+</html>

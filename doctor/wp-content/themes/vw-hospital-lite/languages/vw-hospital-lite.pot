@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Hospital Lite\n"
+"Last-Translator: \n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid '404'
+msgstr 
+
+#: 404.php:12
+msgid 'Not Found'
+msgstr 
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:14
+#: no-results.php:21
+msgid "Don\'t worry &hellip it happens to the best of us."
+msgstr ""
+
+#: 404.php:16
+msgid 'Return to Home Page'
+msgstr ""
+
+#: comments.php:34
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:64
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:30
+msgid 'Design & Developed By'
+msgstr ""
+
+#: header.php:21
+msgid "Menu"
+msgstr ""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:16
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:18
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: no-results.php:23
+msgid "Back to Home Page"
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: archive.php:47
+#: archive.php:86
+#: archive.php:123
+#: archive.php:160
+#: archive.php:200
+#: archive.php:242
+#: index.php:44
+#: index.php:76
+#: index.php:106
+#: index.php:136
+#: index.php:169
+#: index.php:201
+#: search.php:40
+#: search.php:74
+#: search.php:106
+#: search.php:138
+#: search.php:173
+#: search.php:209
+msgid 'Previous page'
+msgstr ""
+
+
+#: archive.php:48
+#: archive.php:87
+#: archive.php:124
+#: archive.php:161
+#: archive.php:201
+#: archive.php:243
+#: index.php:45
+#: index.php:77
+#: index.php:107
+#: index.php:137
+#: index.php:170
+#: index.php:202
+#: search.php:41
+#: search.php:75
+#: search.php:107
+#: search.php:139
+#: search.php:174
+#: search.php:210
+msgid 'Next page'
+msgstr ""
+
+
+#: archive.php:49
+#: archive.php:88
+#: archive.php:123
+#: archive.php:162
+#: archive.php:202
+#: archive.php:244
+#: index.php:46
+#: index.php:78
+#: index.php:108
+#: index.php:138
+#: index.php:171
+#: index.php:203
+#: search.php:42
+#: search.php:76
+#: search.php:108
+#: search.php:140
+#: search.php:175
+#: search.php:211
+msgid 'Page'
+msgstr ""
+
+#: archive.php:25
+#: archive.php:65
+#: archive.php:102
+#: archive.php:139
+#: archive.php:179
+#: archive.php:220
+msgid 'Featured'
+msgstr ""
+
+#: search.php:19
+#: search.php:53
+#: search.php:85
+#: search.php:117
+#: search.php:152
+#: search.php:187
+msgid 'Results For: %s'
+msgstr ""
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:59
+msgid 'Warm Greetings to you!!'
+msgstr ""
+
+#: functions.php:60
+msgid 'Thank you for choosing VW Hospital theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Hospital theme.'
+msgstr ""
+
+#: functions.php:61
+msgid 'GET STARTED'
+msgstr ""
+
+#: functions.php:68
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:69
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:78
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:79
+#: functions.php:89
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:88
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:108
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:118
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:99
+#: functions.php:109
+#: functions.php:119
+#: functions.php:129
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:366
+msgid 'VWThemes'
+msgstr ""
+
+#: image.php:38
+#: image.php:93
+#: image.php:149
+#: image.php:203
+#: image.php:260
+#: image.php:317
+msgid 'Pages:'
+msgstr ""
+
+#: image.php:43
+#: image.php:98
+#: image.php:154
+#: image.php:208
+#: image.php:265
+#: image.php:322
+msgid 'Edit'
+msgstr ""
+
+#: image.php:53
+#: image.php:108
+#: image.php:164
+#: image.php:218
+#: image.php:275
+#: image.php:332
+#: single.php:43
+#: single.php:87
+#: single.php:133
+#: single.php:177
+#: single.php:223
+#: single.php:269
+msgid 'Parent post link'
+msgstr ""
+
+#: image.php:59
+#: image.php:114
+#: image.php:170
+#: image.php:224
+#: image.php:281
+#: image.php:338
+#: single.php:49
+#: single.php:93
+#: single.php:139
+#: single.php:183
+#: single.php:229
+#: single.php:275
+msgid 'Next post:'
+msgstr ""
+
+#: image.php:58
+#: image.php:113
+#: image.php:169
+#: image.php:223
+#: image.php:280
+#: image.php:337
+#: single.php:48
+#: single.php:92
+#: single.php:138
+#: single.php:182
+#: single.php:228
+#: single.php:274
+msgid 'Next'
+msgstr ""
+
+#: image.php:62
+#: image.php:117
+#: image.php:173
+#: image.php:227
+#: image.php:284
+#: image.php:341
+#: single.php:52
+#: single.php:96
+#: single.php:142
+#: single.php:186
+#: single.php:232
+#: single.php:278
+msgid 'Previous post:'
+msgstr ""
+
+#: image.php:61
+#: image.php:116
+#: image.php:172
+#: image.php:226
+#: image.php:283
+#: image.php:340
+#: single.php:51
+#: single.php:95
+#: single.php:141
+#: single.php:185
+#: single.php:231
+#: single.php:277
+msgid 'Previous'
+msgstr ""
+
+#: page-template/custom-frontpage.php:56
+msgid 'Learn More'
+msgstr ""
+
+#: page-template/custom-frontpage.php:102
+msgid 'READ MORE'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:26
+msgid 'Theme Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:40
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:159
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:173
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:184
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:196
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:210
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:221
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:235
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:246
+msgid 'H1 Color'
+msgstr ""
+
+#: inc/customizer.php:260
+msgid 'H1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:272
+msgid 'H1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:284
+msgid 'h2 Color'
+msgstr ""
+
+#: inc/customizer.php:298
+msgid 'h2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:310
+msgid 'h2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:322
+msgid 'h3 Color'
+msgstr ""
+
+#: inc/customizer.php:336
+msgid 'h3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:348
+msgid 'h3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:360
+msgid 'h4 Color'
+msgstr ""
+
+#: inc/customizer.php:374
+msgid 'h4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:386
+msgid 'h4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:398
+msgid 'h5 Color'
+msgstr ""
+
+#: inc/customizer.php:412
+msgid 'h5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:424
+msgid 'h5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:436
+msgid 'h6 Color'
+msgstr ""
+
+#: inc/customizer.php:450
+msgid 'h6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:462
+msgid 'h6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:470
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:484
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:493
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:494
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:504
+msgid 'Select Service Page'
+msgstr ""
+
+#: inc/customizer.php:514
+msgid 'Contact Us'
+msgstr ""
+
+#: inc/customizer.php:515
+msgid 'This section is used to display address and contact'
+msgstr ""
+
+
+#: inc/customizer.php:537
+msgid 'Email Address'
+msgstr ""
+
+#: inc/customizer.php:525
+msgid 'Contact No '
+msgstr ""
+
+#: inc/customizer.php:546
+msgid 'Social Links'
+msgstr ""
+
+#: inc/customizer.php:557
+msgid 'Youtube URL'
+msgstr ""
+
+#: inc/customizer.php:568
+msgid 'Facebook URL'
+msgstr ""
+
+#: inc/customizer.php:579
+msgid 'Twitter URL'
+msgstr ""
+
+#: inc/customizer.php:590
+msgid 'RSS URL'
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer.php:610
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:695
+msgid 'VW Corporate Pro'
+msgstr ""
+
+#: inc/customizer.php:696
+msgid 'Upgrade Pro'
+msgstr ""
+
+#: inc/customizer.php:709
+msgid 'Documentation'
+msgstr ""
+
+#: inc/customizer.php:710
+msgid 'Docs'
+msgstr ""
